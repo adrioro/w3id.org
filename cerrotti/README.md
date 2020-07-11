@@ -11,3 +11,9 @@ Maintainer
 https://github.com/pantoner 
 
 erichorozco@protonmail.com
+
+https://github.com/adrioro
+
+cerrotti@protonmail.com
+
+
